@@ -10,7 +10,7 @@ I am currently working on the Hyperparameter Fine Tuning, seeking the best ML mo
 
 Four models were implemented (besides the Average Model baseline): Linear Regression, Lasso, Random Forest Regressor and XGBoost. 6-fold cross-validation revealed the Random Forest would be the best choice (under a RMSE criterion), but XGBoost was chosen for continuing the work as a source of interesting studies (on what refers to its fine-tuning). Moreover, its performance is rather close to that of the Random Forest. 
 
-Previously, data had already been properly cleaned, engineered, explored and prepared for the modeling. In the preparation phase, the choice to use Boruta was a highlight. 
+Previously, data had already been properly cleaned, engineered, explored and prepared for the modeling. In the preparation phase, the choice to use Boruta as a feature selector was a highlight. 
 
 ## Next steps 
 	
