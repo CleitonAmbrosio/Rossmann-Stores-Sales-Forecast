@@ -6,11 +6,12 @@ Its management follows the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/
 
 ## Status
 
-I am currently working on the Exploratory Data Analysis (EDA), seeking to verify the hypotheses arised previously.
+I am currently working on the Hyperparameter Fine Tuning, seeking the best ML model for the problem. 
 
-Data has already been properly cleaned and some features have been engineered based on a list of hypotheses derived from the following mind map.
-![Mind map of the problem](/imgs/STORE_SALES_PREDICTION.png)
+Four models were implemented (besides the Average Model baseline): Linear Regression, Lasso, Random Forest Regressor and XGBoost. 6-fold cross-validation revealed the Random Forest would be the best choice (under a RMSE criterion), but XGBoost was chosen for continuing the work as a source of interesting studies (on what refers to its fine-tuning). Moreover, its performance is rather close to that of the Random Forest. 
+
+Previously, data had already been properly cleaned, engineered, explored and prepared for the modeling. In the preparation phase, the choice to use Boruta was a highlight. 
 
 ## Next steps 
 	
-After finishing the EDA, the data will be prepared for modelling.
+After fine tuning, the model will be evaluated. If the results are satisfactory enough, it will be deployed to production. At this point, a new CRISP-DM cycle will be allowed to begin.
