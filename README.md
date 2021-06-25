@@ -6,7 +6,7 @@ Its management follows the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/
 
 ## Status
 
-I just finished the Hyperparameter Fine Tuning, and am now moving on to the translation and interpretation of the errors in terms of business metrics. 
+Just finished the Hyperparameter Fine Tuning, and I am now moving on to the translation and interpretation of the errors in terms of business metrics. 
 
 Four models were implemented (besides the Average Model baseline): Linear Regression, Lasso, Random Forest Regressor and XGBoost. 6-fold cross-validation revealed the Random Forest would be the best choice (under a RMSE criterion), but XGBoost was chosen for continuing the work as its size (on deployment) was expected to be lower than that of the Random Forest. Moreover, its performance is rather close to that of the Random Forest. 
 
@@ -14,4 +14,4 @@ Previously, data had already been properly cleaned, engineered, explored and pre
 
 ## Next steps 
 	
-After evaluating the model performance in terms of business metrics, the model will be deployed to production. At this point, a new CRISP-DM cycle will be allowed to begin.
+After evaluating the model performance in terms of business metrics, the model will be deployed to production. Spoiler: a Telegram Bot shall be built in order to have the forecasting at hands. At this point, a new CRISP-DM cycle will be allowed to begin.
