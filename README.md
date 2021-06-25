@@ -6,7 +6,7 @@ Its management follows the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/
 
 ## Status
 
-Just finished the Hyperparameter Fine Tuning, and I am now moving on to the translation and interpretation of the errors in terms of business metrics. 
+Just finished the Hyperparameter Fine Tuning, and currently moving on to the translation and interpretation of the errors in terms of business metrics. 
 
 Four models were implemented (besides the Average Model baseline): Linear Regression, Lasso, Random Forest Regressor and XGBoost. 6-fold cross-validation revealed the Random Forest would be the best choice (under a RMSE criterion), but XGBoost was chosen for continuing the work due to --- in comparison to the Random Forest --- its size (on deployment) being expected to be lower and its performance, rather close. 
 
