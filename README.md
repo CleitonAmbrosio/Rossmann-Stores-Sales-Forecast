@@ -8,7 +8,7 @@ Its management follows the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/
 
 ML modeling pipeline is complete, with the model already at production, furnishing predictions through a Telegram bot. The deployment scripts are included in the last section of the .ipynb file.
 
-Organization of the repository are currently being carried out, as well as the writing of a proper README.
+Final organization of the repository is currently being carried out, as well as the writing of a proper README.
 
 ## Next steps 
 	
