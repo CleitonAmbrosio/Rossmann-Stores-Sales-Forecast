@@ -1,6 +1,8 @@
 # Rossmann Stores Sales Forecast
 ## Predicting the income of the units of a chain store
-T
+
+![](cover.png)
+
 Data Science project consisting of forecasting the sales of +1,000 drug stores from a dataset published @ [Kaggle.](https://www.kaggle.com/c/rossmann-store-sales) 
 
 Its management follows the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) methodology, aiming to work in the problem through successively deeper cycles, while delivering value early, since the first run.  
