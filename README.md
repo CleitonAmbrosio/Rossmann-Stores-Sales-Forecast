@@ -20,7 +20,7 @@ In order to solve this challenge, I went along the following steps:
 4. Exploratory Data Analysis (EDA): Exploration of the data searching for insights and seeking to understand the impact of each variable on the upcoming machine learning modeling.
 5. Data Preparation: Preprocessing stage required prior to the machine learning modeling step.
 6. Feature Selection: Selection of the most significant attributes for training the model.
-7. Machine Learning Modeling: Implementation of a few algorithms appropriate to the task at hand. In this case, models befitting the *regression* assignment - *i.e.*, forecasting a continuous value, namely: sales.
+7. Machine Learning Modeling: Implementation of a few algorithms appropriate to the task at hand. In this case, models befitting the *regression* assignment - *i.e.*, forecasting a continuous value, namely sales.
 8. Hyperparameter Fine Tunning: Search for the best values for each of the parameters of the best performing model(s) selected from the previous step.
 9. Translation and Interpretation of the Model Performance: Conversion of the performance metrics of the Machine Learning model to a more tangible business result.
 10. Deployment of the Model to Production: Publication of the model in a cloud environment so that the interested people can access its results to improve business decisions.
