@@ -15,7 +15,6 @@ The [database](https://www.kaggle.com/c/rossmann-store-sales) spans around 2.5 y
 ## Business Assumptions
 
 - The whole analysis is understood to be done on the week after the last record in the database.
-- Most customers are expected to receive their wage around the 10th day of each month.
 
 ## Solution Strategy
 
