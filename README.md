@@ -48,9 +48,9 @@ Moreover, the workflow followed the [CRISP-DM](https://www.datascience-pm.com/cr
 
 The final chosen algorithm was the XGBoost Regressor, which presented the following performance after the appropriate hyperparameter fine tuning, on K-fold cross-validation with 5 splits:  
 
-| Mean Absolute Error | Mean Absolute Percentage Error | Root Mean Squared Error |
-| :----: | :----: | :----: |
-| 817.73 &pm; 115.51 | 0.12 &pm; 0.01 | 1183.78 &pm; 168.70 |
+| Model Name | Mean Absolute Error | Mean Absolute Percentage Error | Root Mean Squared Error |
+| ---- | :----: | :----: | :----: |
+| XGBoost Regressor (tuned HP) | 817.73 &pm; 115.51 | 0.12 &pm; 0.01 | 1183.78 &pm; 168.70 |
 
 For completeness, we also include the performances of the remaining employed algorithms ("HP" stands for "hyperparameters"):
 
