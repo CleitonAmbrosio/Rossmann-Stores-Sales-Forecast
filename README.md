@@ -11,9 +11,10 @@ The manager of each store came up with the task of predicting the daily sales of
 The [database](https://www.kaggle.com/c/rossmann-store-sales) spans around 2.5 years in time (between 2013 and 2015) and 1115 stores in total, containing information for each unit describing factors such as promotions, competition, school and state holidays and seasonality.
 
 ## Business Assumptions
+- The whole analysis is understood to be done on the week after the last record in the database.
 
 ## Solution Strategy
-In order to solve this challenge, I went along the following steps:
+In order to solve this challenge, the work went along the following steps:
 1. **Data Description:** Understanding of the status of the database and dealing with missing values properly. Basic statistics metrics furnish an overview of the data.  
 2. **Feature Engineering:** Derivation of new attributes based on the original variables aiming to better describe the phenomenon that will be modeled, and to supply interesting attributes for the Exploratory Data Analysis.
 3. **Data Filtering:** Filtering of records and selection of attributes that do not contain information for modeling or that do not match the scope of the business problem.
