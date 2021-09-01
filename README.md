@@ -71,9 +71,7 @@ For completeness, we also include the performances of the remaining employed alg
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/rossmann_sales_forecast_bot)
 
-## Lessons Learned
-
-## Points For Improvement
+## Possible Points For Improvement
 
 ## References
 \[1\] [Personal Care Retailers in Europe](https://www.retail-index.com/sectors/personalcareretailersineurope.aspx).
