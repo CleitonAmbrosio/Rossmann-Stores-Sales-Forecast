@@ -93,6 +93,6 @@ Notice that some of them are not available in the production dataset. Also, the 
 
 ### Accessing the bot
 
-It is very straightforward, just click the button below:
+It is very straightforward, just look for @rossmann_sales_forecast_bot on Telegram or click the button below:
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/rossmann_sales_forecast_bot)
