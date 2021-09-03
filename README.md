@@ -72,7 +72,7 @@ and
 
 > *smaller than 10%* for *67.53%* of them.
 
-As for the initial request of the managers, in the total of the **last 6 weeks of records** in the database (test subset), the error of the predictions was
+As for the initial request of the managers, in the total of the **last 6 weeks of records** in the database (test subset), the total error of the predictions was
 > ***smaller than 10%*** for ***97.58%*** of the stores,
 
 and
