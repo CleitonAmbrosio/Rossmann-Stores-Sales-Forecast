@@ -79,7 +79,7 @@ and
 
 > ***smaller than 5%*** for ***75.7%*** of them.
 
-In the overall of the stores, the ***actual income of $289,571,750.00*** was ***predicted to be $286,722,368.00***, what corresponds to a subestimation of ***0.98%***.
+In the overall of the stores, the ***actual income of $289,571,750.00*** for the 6 weeks was ***predicted to be $286,722,368.00***, what corresponds to a subestimation of ***0.98%***.
 
 ## Conclusions
 
