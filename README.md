@@ -85,7 +85,7 @@ In the overall of the stores, the ***actual income of $289,571,750.00*** for the
 
 The final model performed satisfactorily enough to be deployed to production. Notice that the deployment scripts are included in the last section of the notebook file, but were employed as in the standalone folders (see inside 'deployment'), which were pushed to a cloud storage (in this case, Heroku).
 
-The predictions can be easily accessed through a Telegram bot just by messaging the number of desired store (that is, between 1 and 1115), one at a time, as in the following preview.
+The predictions can be conveniently accessed through a Telegram bot just by messaging the number of desired store (that is, between 1 and 1115), one at a time, as in the following preview.
 
 <img src="deployment_bot_screenshot.jpg" width="400"/>
 
