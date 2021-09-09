@@ -100,6 +100,6 @@ It is very straightforward, just look for @rossmann_sales_forecast_bot on Telegr
 ## *Note on visualization*
 
 A better reading of the main notebook might be achieved by enabling the following [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions):
-- Collapsible Headings
-- Hide input
-- Split Cells Notebook
+- Collapsible Headings;
+- Hide input;
+- Split Cells Notebook.
