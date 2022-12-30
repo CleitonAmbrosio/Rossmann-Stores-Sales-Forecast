@@ -83,7 +83,7 @@ In the overall of the stores, the ***actual income of $289,571,750.00*** for the
 
 ## Conclusions
 
-The final model performed satisfactorily enough to be deployed to production. Notice that the deployment scripts are included in the last section of the notebook file, but were employed as in the standalone folders (see inside 'deployment'), which were pushed to a cloud storage (in this case, Heroku).
+The final model performed satisfactorily enough to be deployed to production. Notice that the deployment scripts are included in the last section of the notebook file, but were employed as in the standalone folders (see inside `deployment`), each of which has its own repo ([Telegram bot handler app](https://github.com/CleitonAmbrosio/rossmann-telegram-bot) and [Predictor app](https://github.com/CleitonAmbrosio/rossmann-predictor)) hosted in a free server (in this case, [Render](https://render.com/)).
 
 The predictions can be conveniently accessed through a Telegram bot just by messaging the number of desired store (that is, between 1 and 1115), one at a time, as in the following preview.
 
