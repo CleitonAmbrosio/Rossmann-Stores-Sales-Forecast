@@ -1,1 +1,0 @@
-web: python rossmann_telegram_bot.py
